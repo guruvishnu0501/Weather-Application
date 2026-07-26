@@ -108,7 +108,7 @@ cd weather-dashboard
 <img width="1899" height="910" alt="image" src="https://github.com/user-attachments/assets/1246e687-caeb-40bb-897e-d127e86cb653" />
 <img width="1896" height="843" alt="image" src="https://github.com/user-attachments/assets/be8ede40-0119-4f15-a502-c2d511640c05" />
 
-### Live link : https://guruvishnu0501.github.io/Weather-Application/
+### Live link : https://guruvishnu0501.github.io/Weather_Dashboard/
 ---
 
 ## 🚧 Future Enhancements
